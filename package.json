@@ -1,0 +1,7 @@
+{
+  "name": "awesome-test",
+  "version": "1.0.0",
+  "description": "testing how node works",
+  "main": "server.js",
+}
+	
